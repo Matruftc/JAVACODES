@@ -1,4 +1,4 @@
-public class integerexaple {
+public class integerexample {
     public static void main(String args[]){
         int integerexample =10;
          System.out.println("THE EXAMPLE OF INTEGER IS: "+integerexample);
